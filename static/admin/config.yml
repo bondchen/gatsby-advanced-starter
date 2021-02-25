@@ -5,7 +5,7 @@ backend:
 
 media_folder: static/assets
 public_folder: assets
-
+local_backend: true
 collections:
   - name: blog
     label: "Post"
