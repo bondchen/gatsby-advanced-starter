@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 
-sitemap: https://gatsby-advanced-starter-demo.netlify.com/sitemap.xml
+sitemap: https://musing-wing-f90b5b.netlify.app/sitemap.xml
